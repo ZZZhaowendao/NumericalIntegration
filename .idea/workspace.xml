@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e1d6e0e-690d-4b47-bba9-cdfebcf81725" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatrixEigenvalueCalculation/Eigenvalue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixEigenvalueCalculation/Eigenvalue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MatrixEigenvalueCalculation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixEigenvalueCalculation/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ujmp-complete-0.3.0.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/NumericalMethod-master" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -86,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586312849426</updated>
-      <workItem from="1586312852750" duration="15263000" />
+      <workItem from="1586312852750" duration="15520000" />
     </task>
     <servers />
   </component>
@@ -94,10 +96,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="592" y="221" key="FileChooserDialogImpl" timestamp="1586317763326">
+    <state x="592" y="221" key="FileChooserDialogImpl" timestamp="1586348346048">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="592" y="221" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586317763326" />
+    <state x="592" y="221" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586348346048" />
     <state width="1301" height="452" key="GridCell.Tab.0.bottom" timestamp="1586347985074">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

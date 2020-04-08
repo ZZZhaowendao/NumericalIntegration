@@ -1,9 +1,5 @@
 package MatrixEigenvalueCalculation;
 
-
-import org.ujmp.core.DenseMatrix;
-import org.ujmp.core.Matrix;
-
 import java.util.Scanner;
 
 public class Main {
@@ -20,6 +16,6 @@ public class Main {
                 eigenvalue.getMatrix().mtimes(value.eigenvector));
         System.out.println("lambda * vector为\n" +
                 value.eigenvector.times(value.eigenvalue));
-        
+
     }
 }

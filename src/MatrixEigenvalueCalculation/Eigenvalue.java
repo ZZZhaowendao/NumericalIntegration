@@ -1,6 +1,5 @@
 package MatrixEigenvalueCalculation;
 
-import org.ujmp.core.DenseMatrix;
 import org.ujmp.core.Matrix;
 
 public class Eigenvalue {
